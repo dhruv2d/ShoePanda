@@ -1,4 +1,4 @@
-Live Link : https://shoe-panda.vercel.app/
+Live Link: https://shoe-panda-gamma.vercel.app/
 
 # React + Vite
 
